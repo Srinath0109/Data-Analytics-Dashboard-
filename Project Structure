@@ -1,0 +1,8 @@
+DataAnalyticsDashboard/
+│── app.py                # Main Streamlit App
+│── data_loader.py        # Load & preprocess data
+│── visualizations.py     # Generate plots & insights
+│── utils.py              # Helper functions
+│── sample_data.csv       # Example dataset
+│── requirements.txt      # Dependencies
+│── README.md             # Documentation
